@@ -18,7 +18,8 @@ The web application is built using React and showcases the pricing details of a 
 
 ## Screenshot
 
-Insert a screenshot of the application here if available.
+![image](https://github.com/SuriaPrakash1998/Pricing_tag/assets/141734384/3701c141-2fed-41b2-9ab5-9109307bbb6e)
+
 
 ## Features
 
@@ -37,3 +38,22 @@ To run the application locally, follow these steps:
 
 ```bash
 npm install
+
+After the installation is complete, run the following command to start the development server:
+
+npm start
+
+Open your web browser and visit http://localhost:3000 to see the application in action.
+
+Deployment
+The application has been deployed using Netlify. You can access the deployed version by visiting the following URL:
+
+https://app.netlify.com/sites/playful-croissant-576b1d/
+
+Live Demo
+A live demo of the application is available, allowing you to interact with the pricing tiers directly. Visit the following URL to explore the live demo:
+
+Live Demo https://playful-croissant-576b1d.netlify.app/
+
+License
+This project is licensed under the MIT License.
