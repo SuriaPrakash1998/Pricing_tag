@@ -28,14 +28,7 @@ The web application is built using React and showcases the pricing details of a 
 - Information about the number of users, storage, and other features for each tier.
 - Different styling and layout for each tier to create visual differentiation.
 
-## Getting Started
+Deployment
+The application has been deployed using Netlify. You can access the deployed version by visiting the following URL:
 
-To run the application locally, follow these steps:
-
-1. Clone this repository to your local machine.
-2. Navigate to the project directory using the terminal.
-3. Run the following command to install the necessary dependencies:
-
-```bash
-npm install
-
+https://app.netlify.com/sites/playful-croissant-576b1d/](https://playful-croissant-576b1d.netlify.app/)https://playful-croissant-576b1d.netlify.app/
