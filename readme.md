@@ -31,4 +31,4 @@ The web application is built using React and showcases the pricing details of a 
 Deployment
 The application has been deployed using Netlify. You can access the deployed version by visiting the following URL:
 
-https://app.netlify.com/sites/playful-croissant-576b1d/](https://playful-croissant-576b1d.netlify.app/)https://playful-croissant-576b1d.netlify.app/
+https://playful-croissant-576b1d.netlify.app/
